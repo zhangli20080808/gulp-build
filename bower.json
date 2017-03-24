@@ -1,0 +1,23 @@
+{
+  "name": "gulp-build",
+  "description": "gulp自动化构建工具",
+  "main": "index.js",
+  "keywords": [
+    "测试gulp"
+  ],
+  "authors": [
+    "zl"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.3"
+  }
+}
